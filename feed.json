@@ -1,0 +1,13 @@
+{
+    "version": "https://jsonfeed.org/version/1",
+    "title": "MakerMindStudio",
+    "description": "",
+    "home_page_url": "https://makermindstudio.com",
+    "feed_url": "https://makermindstudio.com/feed.json",
+    "user_comment": "",
+    "author": {
+        "name": "Mario Martinez, Jr."
+    },
+    "items": [
+    ]
+}
